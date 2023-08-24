@@ -17,10 +17,9 @@ class Entry(UserDict):
             self.data[f] = ''
         
     def __setitem__(self, key: Fields, value):
-        try:
-            if key in Fields:
-                self.data[key] = value
-        except:
+        if isinstance(key, Fields):
+            self.data[key] = value
+        else:
             raise KeyError
             
     def to_dict(self) -> dict:
