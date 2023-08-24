@@ -54,3 +54,9 @@ Various examples of using the commandline
 # Get some information on the fields supported by both ADD and FILTER
 ./rdex.sh info --fields
 ```
+
+## Author / Other
+The code is provided AS-IS and is not intended for anything other than demonstration / learning.
+Please feel free to give comment or feedback.
+
+Find me at deebee262 on github
