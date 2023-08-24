@@ -2,7 +2,7 @@
 
 Rolodex is a very simple in-memory toy database that seeks to look at:
 
-* Implmenting a Factory Pattern via Interfaces (Protocol) for reading file formats
+* Implementing a Factory Pattern via Interfaces (Protocol) for reading file formats
   * CSV
   * JSON
   * YAML
