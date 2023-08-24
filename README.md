@@ -23,7 +23,7 @@ The code based leans to a more functional data structure development style. It i
     * "run_tests.sh" for easy test runs
   * venv
     * "run_setup_venv.sh" for setup
-* UnitTesting (unittest)
+
 
 ## Command-line Usage
 
