@@ -11,7 +11,7 @@ Rolodex is a very simple in-memory toy database that seeks to look at:
   * JSON
   * YAML
 
-The code based leans to a more functional data structure development style. It is simple, but should offer flexibilty for simple expansion and maintenence.
+The code base leans to a more functional data structure development style. It is simple, but should offer flexibilty for simple expansion and maintenence.
 
 
 ## Dev Environment
